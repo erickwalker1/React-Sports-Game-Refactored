@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React-Sports-App-Refactored/static/css/main.f4ab2e7c.chunk.css",
-    "main.js": "/React-Sports-App-Refactored/static/js/main.0a9b649a.chunk.js",
-    "main.js.map": "/React-Sports-App-Refactored/static/js/main.0a9b649a.chunk.js.map",
-    "runtime-main.js": "/React-Sports-App-Refactored/static/js/runtime-main.520fecaa.js",
-    "runtime-main.js.map": "/React-Sports-App-Refactored/static/js/runtime-main.520fecaa.js.map",
-    "static/js/2.df67d762.chunk.js": "/React-Sports-App-Refactored/static/js/2.df67d762.chunk.js",
-    "static/js/2.df67d762.chunk.js.map": "/React-Sports-App-Refactored/static/js/2.df67d762.chunk.js.map",
-    "index.html": "/React-Sports-App-Refactored/index.html",
-    "precache-manifest.50acfb8b62ad777dffb7e56ec744c707.js": "/React-Sports-App-Refactored/precache-manifest.50acfb8b62ad777dffb7e56ec744c707.js",
-    "service-worker.js": "/React-Sports-App-Refactored/service-worker.js",
-    "static/css/main.f4ab2e7c.chunk.css.map": "/React-Sports-App-Refactored/static/css/main.f4ab2e7c.chunk.css.map",
-    "static/js/2.df67d762.chunk.js.LICENSE.txt": "/React-Sports-App-Refactored/static/js/2.df67d762.chunk.js.LICENSE.txt",
-    "static/media/BackBoard.mp3": "/React-Sports-App-Refactored/static/media/BackBoard.0c416109.mp3",
-    "static/media/HoustonRockets.png": "/React-Sports-App-Refactored/static/media/HoustonRockets.8785e770.png",
-    "static/media/MiamiHeat.png": "/React-Sports-App-Refactored/static/media/MiamiHeat.f907ade6.png",
-    "static/media/NewOrleansPelicans.jpg": "/React-Sports-App-Refactored/static/media/NewOrleansPelicans.698c3468.jpg",
-    "static/media/Pistons.png": "/React-Sports-App-Refactored/static/media/Pistons.4d4a758f.png",
-    "static/media/Swish.mp3": "/React-Sports-App-Refactored/static/media/Swish.6bc36809.mp3"
+    "main.css": "/React-Sports-Game-Refactored/static/css/main.f4ab2e7c.chunk.css",
+    "main.js": "/React-Sports-Game-Refactored/static/js/main.0e874f9d.chunk.js",
+    "main.js.map": "/React-Sports-Game-Refactored/static/js/main.0e874f9d.chunk.js.map",
+    "runtime-main.js": "/React-Sports-Game-Refactored/static/js/runtime-main.1b0e3963.js",
+    "runtime-main.js.map": "/React-Sports-Game-Refactored/static/js/runtime-main.1b0e3963.js.map",
+    "static/js/2.df67d762.chunk.js": "/React-Sports-Game-Refactored/static/js/2.df67d762.chunk.js",
+    "static/js/2.df67d762.chunk.js.map": "/React-Sports-Game-Refactored/static/js/2.df67d762.chunk.js.map",
+    "index.html": "/React-Sports-Game-Refactored/index.html",
+    "precache-manifest.2490ea1cba791c50d04dbf38893ebbf7.js": "/React-Sports-Game-Refactored/precache-manifest.2490ea1cba791c50d04dbf38893ebbf7.js",
+    "service-worker.js": "/React-Sports-Game-Refactored/service-worker.js",
+    "static/css/main.f4ab2e7c.chunk.css.map": "/React-Sports-Game-Refactored/static/css/main.f4ab2e7c.chunk.css.map",
+    "static/js/2.df67d762.chunk.js.LICENSE.txt": "/React-Sports-Game-Refactored/static/js/2.df67d762.chunk.js.LICENSE.txt",
+    "static/media/BackBoard.mp3": "/React-Sports-Game-Refactored/static/media/BackBoard.0c416109.mp3",
+    "static/media/HoustonRockets.png": "/React-Sports-Game-Refactored/static/media/HoustonRockets.8785e770.png",
+    "static/media/MiamiHeat.png": "/React-Sports-Game-Refactored/static/media/MiamiHeat.f907ade6.png",
+    "static/media/NewOrleansPelicans.jpg": "/React-Sports-Game-Refactored/static/media/NewOrleansPelicans.698c3468.jpg",
+    "static/media/Pistons.png": "/React-Sports-Game-Refactored/static/media/Pistons.4d4a758f.png",
+    "static/media/Swish.mp3": "/React-Sports-Game-Refactored/static/media/Swish.6bc36809.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.520fecaa.js",
+    "static/js/runtime-main.1b0e3963.js",
     "static/js/2.df67d762.chunk.js",
     "static/css/main.f4ab2e7c.chunk.css",
-    "static/js/main.0a9b649a.chunk.js"
+    "static/js/main.0e874f9d.chunk.js"
   ]
 }
